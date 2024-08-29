@@ -1,6 +1,6 @@
 <h1 align="center"> 🌌 Welcome to my profile! 🚀</h1>
 <h2 align="center">Hello! 😄 My name is Will Canner</h2>
-<h3 align="center">A driven frontend developer</h3>
+<h3 align="center">A driven developer</h3>
 
 
 
