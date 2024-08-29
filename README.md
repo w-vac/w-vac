@@ -8,10 +8,6 @@
 
 <h2 align="left"> About Me </h2>
 <ul style="font-size:18px">
-<li> 🛠️ Avionics Technician at Panasonic </li>
-<li> 👨‍💻 Software Developer </li>
-<li> 🏍️ Motorcycle Enthusiast </li>
-<li> 🎨 Animation Hobbyist </li>
 </ul>
 
 
